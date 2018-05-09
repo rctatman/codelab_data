@@ -1,4 +1,4 @@
-# codekab_dataColumn or Header Name,Max Length,Definition
+Column or Header Name,Max Length,Definition
 source_desc (Program),60,"Source of data (CENSUS or SURVEY). Census program includes the Census of Ag as well as follow up projects. Survey program includes national, state, and county surveys."
 sector_desc (Sector),60,"Five high level, broad categories useful to narrow down choices (CROPS, ANIMALS & PRODUCTS, ECONOMICS, DEMOGRAPHICS, andENVIRONMENTAL)."
 group_desc (Group),80,"Subsets within sector (e.g., under sector = CROPS, the groups are FIELD CROPS, FRUIT & TREE NUTS, HORTICULTURE, and VEGETABLES)."
